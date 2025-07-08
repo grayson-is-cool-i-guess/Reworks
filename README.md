@@ -10,3 +10,7 @@ Reworks is both FREE and OPEN SOURCE! I reccomend just using the official releas
 Unity versions are:
 Vita: 2018.2.19f1
 Windows and WebGL: The newest Unity alpha/beta
+
+# Making Mods For Reworks
+Modding will soon be supported, probably when the game actually releases.
+There will most likely be a seperate Unity project and everything for making them!
