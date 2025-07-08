@@ -1,2 +1,8 @@
 # Reworks
-Garry's Mod/Bonelab sandbox type game made for PSVita, Windows, and WebGL :D
+Garry's Mod/Bonelab sandbox type game made for PSVita, Windows, and WebGL
+
+
+
+# About Reworks
+I made Reworks when I was in a call with my friend and thinking about a game to make for the PS Vita. We were thinking something horror-ish but I really wanted a game I could mess around in for hours without getting bored.
+Thats when Reworks was born. :D
